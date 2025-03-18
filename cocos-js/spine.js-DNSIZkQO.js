@@ -1,0 +1,2 @@
+System.register([],(function(e){"use strict";return{execute:function(){e("default","assets/spine.js.mem-1a7qSucW.bin")}}}));
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3BpbmUuanMtRE5TSVprUU8uanMiLCJzb3VyY2VzIjpbIkQ6L2NvY29zIGJhbmJlbi9DcmVhdG9yLzMuOC41L2V4dGVybmFsOmVtc2NyaXB0ZW4vc3BpbmUvc3BpbmUuanMubWVtIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IGltcG9ydC5tZXRhLlJPTExVUF9GSUxFX1VSTF91eFd2TXZnMTsgLyogYXNzZXQtaGFzaDpkMDk4ZjBiNiAqLyJdLCJuYW1lcyI6WyJleHBvcnRzIl0sIm1hcHBpbmdzIjoidUVBQUFBLEVBQUEsVUFBZSJ9

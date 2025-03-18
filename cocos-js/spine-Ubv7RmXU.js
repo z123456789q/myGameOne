@@ -1,0 +1,2 @@
+System.register([],(function(e){"use strict";return{execute:function(){e("default","assets/spine-u3j38j0v.wasm")}}}));
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3BpbmUtVWJ2N1JtWFUuanMiLCJzb3VyY2VzIjpbIkQ6L2NvY29zIGJhbmJlbi9DcmVhdG9yLzMuOC41L2V4dGVybmFsOmVtc2NyaXB0ZW4vc3BpbmUvc3BpbmUud2FzbSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBpbXBvcnQubWV0YS5ST0xMVVBfRklMRV9VUkxfdm1QUjh1eTk7IC8qIGFzc2V0LWhhc2g6YWM4YzIyNGMgKi8iXSwibmFtZXMiOlsiZXhwb3J0cyJdLCJtYXBwaW5ncyI6InVFQUFBQSxFQUFBLFVBQWUifQ==
